@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Patrick Does Coding 
 header-img: img/home-bg.png
 email: lumenfuzz@gmail.com
 copyright_name: lumenfuzz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  this is Patrick
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lumenfuzz
